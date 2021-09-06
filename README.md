@@ -6,9 +6,9 @@ _COM 244 OBJECT ORIENTED PROGRAMMING_
 ![Chicken Attack](https://user-images.githubusercontent.com/51798197/132265076-0b1dfaea-e0e3-42a4-93a7-ab04c248505b.png)
 
 ## TO INSTALL THE GAME
-1. Install JRE to play. (Min: 1.4.0) [32-bit](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=245058_d3c52aa6bfa54d3ca74e617f18309292) | [64-bit](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=245060_d3c52aa6bfa54d3ca74e617f18309292)
-2. Download the game from [here](https://github.com/ozturkkl/ChickenAttackGame/raw/master/Chicken%20Attack.exe)
-3. Launch the downloaded file.
+1. Download [Chicken Attack.zip](https://github.com/ozturkkl/ChickenAttackGame/releases/tag/v1.1)
+1. Install JRE to play. (Min: 1.4.0)
+3. Launch the game with the .exe file.
 
 **Tested on Windows 10.**
 
