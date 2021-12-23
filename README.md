@@ -1,3 +1,5 @@
+PS. I finally opened a proper Github account, and forking was much easier.
+
 # Course Project: Chicken Attack
 _COM 244 OBJECT ORIENTED PROGRAMMING_  
 **version 1.1 2018**
